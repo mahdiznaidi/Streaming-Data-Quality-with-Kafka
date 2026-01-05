@@ -5,7 +5,6 @@ In real-world streaming systems, data is often **dirty, inconsistent, and unreli
 This lab simulates a realistic Kafka streaming pipeline where students must **clean and validate streaming JSON data**.
 
 
-
 ## TO DO
 Your consumer must:
 
